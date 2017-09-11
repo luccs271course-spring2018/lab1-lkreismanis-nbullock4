@@ -1,10 +1,24 @@
 [![Build Status](https://travis-ci.org/LoyolaChicagoCode/hello-java.svg?branch=master)](https://travis-ci.org/LoyolaChicagoCode/hello-java)
 
-This build will always fail because it has 2 examples of failing tests:
-one based on the source code, and one based on an incorrect test.
 
-# Learning Objectives
-##### Larisa Kreismanis, Nathan Bulllock
+# CS271: Lab 1
+## Markdown document 
+##### Larisa Kreismanis, Nathan Bullock
+
+#### Part 2
+Discussion: What would be a really simple solution if n were not an argument, i.e., if it were always 17?
+* No need for the if-else statement else if(i % 15 == 0)
+
+#### Part 3
+Discussion: How could you have automatically tested your initial solution from part 2?
+* Put the if else loops in the main method so that the loops initally print to test the correct result.
+
+#### Part 4
+Discussion: What changes between parts 2, 3, and 4, and what stays the same? Does it matter what list implementation you choose? If so, in what way(s)?
+* There are small changes between parts 2,3,4.  Part 2 enables systematic if else statements, while part 3 enables arrays.
+* It does not matter what implementation you choose. What implementation you use depends on which method is most efficient in your program.
+
+______
 
 * Simple hello world example
 * Experience with Git source code management

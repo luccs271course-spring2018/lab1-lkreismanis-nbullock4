@@ -1,4 +1,4 @@
-package hw;
+/*package hw;
 
 import java.util.Arrays;
 
@@ -12,3 +12,4 @@ public class Main {
     System.out.println("bye for now");
   }
 }
+*/
