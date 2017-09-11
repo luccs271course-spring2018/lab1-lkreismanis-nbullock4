@@ -4,6 +4,7 @@ This build will always fail because it has 2 examples of failing tests:
 one based on the source code, and one based on an incorrect test.
 
 # Learning Objectives
+##### Larisa Kreismanis, Nathan Bulllock
 
 * Simple hello world example
 * Experience with Git source code management
