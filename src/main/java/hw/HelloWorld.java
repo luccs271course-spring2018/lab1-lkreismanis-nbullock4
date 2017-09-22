@@ -1,4 +1,4 @@
-package hw;
+/*package hw;
 
 public class HelloWorld {
 
@@ -10,3 +10,4 @@ public class HelloWorld {
     return 2008;
   }
 }
+*/
